@@ -7,7 +7,7 @@
    * Rename `.env.dist` to `.env`
    * Insert your values 
 
-#### 3. Run bot:
+#### 3. Webhook setup:
 * Make get request
     `https://api.telegram.org/bot<TOKEN>/setWebhook?url=https://your.domain.com/hook/<TOKEN>/`
 
